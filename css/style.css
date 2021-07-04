@@ -1,0 +1,10 @@
+@import'geral.css';
+:root {
+    --laranja: #E38826;
+    --azul-claro: #006970;
+    --azul-escuro: #004241;
+    --back-head-butt: #F2F2F2;
+    --paragrapf: #C8C8C8;
+    --font--Shoulders700: 'Big Shoulders Display', cursive;
+    --font-Lexend: 'Lexend Deca', sans-serif;
+}
